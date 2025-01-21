@@ -1,0 +1,10 @@
+body {
+  background-image: url('https://img.freepik.com/free-vector/gradient-abstract-wireframe-background_23-2149009903.jpg?t=st=1736505581~exp=1736509181~hmac=357c7394d635cac0af2999655190eefa4794221380d3420344fdc0e09c0885fa&w=2000');
+  background-size: cover;
+}
+
+.textField {
+  background-color: white;
+  border-radius: 4px;
+}
+
